@@ -1,5 +1,13 @@
 # unblock-survivio
-Surviv.io is blocked by my school, so I'm building a GitHub site that can bypass it.
-[Click Here to Access Surviv.io](https://randomblock1.github.io/unblock-survivio/survivio.html "Surviv.io")
+This is a GitHub repo that uses an iframe to bypass a Chrome extension that blocks games and stuff. My fellow students are particulary fond of Surviv.io, but the extension blocked the websites for it.
+<br>
+The solution? Make something that can bypass it.
+<br>
 
-Powered by GitHub and made with love
+So I did.
+
+### [Click Here to Access Surviv.io](https://randomblock1.github.io/unblock-survivio/survivio.html "Surviv.io")
+
+<br><br><br><br><br><br><br><br><br>
+
+Powered by GitHub and made with love <3
