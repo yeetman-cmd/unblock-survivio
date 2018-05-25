@@ -7,7 +7,7 @@ The solution? Make something that can bypass it.
 So I did.
 
 ### [Click Here to Access Surviv.io](https://randomblock1.github.io/unblock-survivio/survivio.html "Surviv.io")
-Share this link to help others have fun! [bit.ly/Survivio](http://bit.ly/Survivio) (the uppercase S matters!)
+Share this link to help others have fun! [bit.ly/surviv-io](http://bit.ly/surviv-io)
 <br><br><br><br><br><br><br><br>
 
 Powered by [my GitHub repo](https://github.com/Randomblock1/unblock-survivio) and made with ❤️
