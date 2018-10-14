@@ -13,3 +13,5 @@ Share this link to help others have fun! [bit.ly/surviv-io](http://bit.ly/surviv
 <br><br><br><br><br><br><br><br>
 
 Powered by [Randomblock1’s GitHub repo](https://github.com/Randomblock1/unblock-survivio) and made with ❤️
+
+Note: if you fork this, the paragraph that says “powered by randomblock1’s github repo” must be preserved and not removed or edited on any page. Thanks.
