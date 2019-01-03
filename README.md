@@ -5,7 +5,12 @@ The solution? Make something that can bypass it.
 <br>
 
 So I did.
+## Things that are Not Games
+### [Click Here to Access Everything](https://randomblock1.github.io/unblock-survivio/unblock-everything.html)
+#####    [or use Google instead (untested)](https://randomblock1.github.io/unblock-survivio/google.html)
+### [Click Here to Access Discord](https://randomblock1.github.io/unblock-survivio/discord.html)
 
+## Games
 ### [Click Here to Access Surviv.io](https://randomblock1.github.io/unblock-survivio/survivio.html "Surviv.io Unblocked!")
 ### [Click Here to Access Shell Shockers](https://randomblock1.github.io/unblock-survivio/shellshockers.html "Shell Shockers Unblocked!")
 ### [Click Here to Access Bonk.io](https://randomblock1.github.io/unblock-survivio/bonk.html "Bonk.io Unblocked!")
