@@ -6,7 +6,7 @@ The solution? Make something that can bypass it.
 
 So I did.
 ## Things that are Not Games
-### [Click Here to Access Everything](https://randomblock1.github.io/unblock-survivio/unblock-everything.html)
+### [Click Here to Access Bing](https://randomblock1.github.io/unblock-survivio/bing.html)
 ### [Click Here to Access Discord](https://randomblock1.github.io/unblock-survivio/discord.html)
 
 ## Games
