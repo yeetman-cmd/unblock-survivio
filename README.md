@@ -5,6 +5,9 @@ The solution? Make something that can bypass it.
 <br>
 
 So I did.
+
+Share this link to help others have fun! [bit.ly/surviv-io](http://bit.ly/surviv-io)
+
 ## Things that are Not Games
 ### [Click Here to Access Bing](https://randomblock1.github.io/unblock-survivio/bing.html "Note: you can’t click links")
 
@@ -12,7 +15,6 @@ So I did.
 ### [Click Here to Access Surviv.io](https://randomblock1.github.io/unblock-survivio/survivio.html "Surviv.io Unblocked!")
 ### [Click Here to Access Shell Shockers](https://randomblock1.github.io/unblock-survivio/shellshockers.html "Shell Shockers Unblocked!")
 ### [Click Here to Access Bonk.io](https://randomblock1.github.io/unblock-survivio/bonk.html "Bonk.io Unblocked!")
-Share this link to help others have fun! [bit.ly/surviv-io](http://bit.ly/surviv-io)
 ### [Click Here to Access OurWorld](https://randomblock1.github.io/unblock-survivio/ourworld.html "OurWorld Unblocked!")
 <br><br><br><br><br><br><br><br>
 
