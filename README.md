@@ -22,5 +22,6 @@ Want to add a website to this list? Make a GitHub Issue with the URL and website
 <br><br><br><br><br><br><br><br>
 
 Powered by [Randomblock1’s GitHub repo](https://github.com/Randomblock1/unblock-survivio) and made with ❤️
+If you like this repo, star it on GitHub and share it with your friends!
 
 Note: if you fork this, the paragraph that says “powered by randomblock1’s github repo” must be preserved and not removed or edited on any page. Thanks.
