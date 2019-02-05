@@ -8,6 +8,8 @@ So I did.
 
 Share this link to help others have fun! [bit.ly/surviv-io](http://bit.ly/surviv-io)
 
+Want to add a website to this list? Make a GitHub Issue with the URL and website name! Or fork it.
+
 ## Things that are Not Games
 ### [Click Here to Access Bing](https://randomblock1.github.io/unblock-survivio/bing.html "Note: you can’t click links")
 
