@@ -19,7 +19,7 @@ Want to add a website to this list? Make a GitHub Issue with the URL and website
 ### [Click Here to Access Shell Shockers](https://randomblock1.github.io/unblock-survivio/shellshockers.html "Shell Shockers Unblocked!")
 ### [Click Here to Access Bonk.io](https://randomblock1.github.io/unblock-survivio/bonk.html "Bonk.io Unblocked!")
 ### [Click Here to Access OurWorld](https://randomblock1.github.io/unblock-survivio/ourworld.html "OurWorld Unblocked!")
-### [Click Here to Access OurWorld](https://randomblock1.github.io/unblock-survivio/diep.html "Diep.io Unblocked!")
+### [Click Here to Access Diep.io](https://randomblock1.github.io/unblock-survivio/diep.html "Diep.io Unblocked!")
 <br><br><br><br><br><br><br><br>
 
 Powered by [Randomblock1’s GitHub repo](https://github.com/Randomblock1/unblock-survivio) and made with ❤️
