@@ -6,12 +6,15 @@ The solution? Make something that can bypass it.
 
 So I did.
 
-## This will not work with devices that use the Securly VPN, such as iPads and iPhones.
-This will, however, work with the Chrome extension. It’s made for the extension and tested on the extension, so if your device doesn’t have it, it may not work.
-
 Share this link to help others have fun! [bit.ly/surviv-io](http://bit.ly/surviv-io)
 
 Want to add a website to this list? Make a GitHub Issue with the URL and website name! Or fork it.
+
+
+## This will not work with devices that use the Securly VPN, such as iPads and iPhones.
+This will, however, work with the Chrome extension. It’s made for the extension and tested on the extension, so if your device doesn’t have it, it may not work.
+
+
 
 ## Things that are Not Games
 ### [Click Here to Access Bing](https://randomblock1.github.io/unblock-survivio/bing.html "Note: you can’t click links")
