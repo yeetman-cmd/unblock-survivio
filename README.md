@@ -10,6 +10,7 @@ Share this link to help others have fun! [bit.ly/surviv-io](http://bit.ly/surviv
 
 Want to add a website to this list? Make a GitHub Issue with the URL and website name! Or fork it.
 
+# *This may not work if your school has a filter or firewall that blocks games. (aka IP blocking)*
 
 ## This will not work with devices that use the Securly VPN, such as iPads and iPhones.
 This will, however, work with the Chrome extension. It’s made for the extension and tested on the extension, so if your device doesn’t have it, it may not work. It's optimized for Chromebooks, since that's what I tested it on. It should work with all other devices with the extension though.
